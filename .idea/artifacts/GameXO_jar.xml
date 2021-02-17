@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="GameXO:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GameXO_jar</output-path>
+    <root id="archive" name="GameXO.jar">
+      <element id="module-output" name="GameXO" />
+    </root>
+  </artifact>
+</component>
